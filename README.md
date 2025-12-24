@@ -1,10 +1,12 @@
 # amadou.bamia
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJtZHJ1M241ZzZ1YmxuZnF1ZnF1ZnF1ZnF1ZnF1ZnF1ZnF1ZnF1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iKT7fanK/giphy.gif" width="100%" height="180" style="object-fit:cover; border-radius: 10px"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" style="object-fit:cover; border-radius: 10px"/>
+</div>
 
   <h1 align="center"> Amadou Bamia, PhD 👋</h1>
   
-  <h3>Project Management Specialist | M&E Lead | Data</h3>
+  <h3>Project Management Specialist | M&E Lead | Data Analyst</h3>
 
 
   <p>
