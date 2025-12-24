@@ -4,10 +4,11 @@
 
   <h1 align="center"> Amadou Bamia, PhD 👋</h1>
   
-  <h3>Field Operations Leader | M&E Expert | Data Systems Specialist</h3>
+  <h3>Project Management Specialist | M&E Lead | Data</h3>
+
 
   <p>
-    <em>Basé à Bamako, Mali 🇲🇱 | Je comble le fossé entre les Opérations Terrain et la Data Engineering.</em>
+    <em>Bamako, Mali 🇲🇱 | Analyst Solving complex field challenges.</em>
   </p>
 
   <p>
@@ -24,7 +25,7 @@
 
 ### 🚀 À propos de moi
 
-Expert en **Suivi-Évaluation (S&E)** et **Gestion de Projets** avec plus de 8 ans d'expérience (World Vegetable Center, myAgro). Je ne me contente pas de collecter des données ; je construis les architectures automatisées qui les rendent fiables et exploitables.
+Expert en **Suivi-Évaluation (S&E)** et **Gestion de Projets** avec plus de 8 ans d'expérience (World Vegetable Center,Pro Consulting S.A.R.L, myAgro). Je ne me contente pas de collecter des données ; je construis les architectures automatisées qui les rendent fiables et exploitables.
 
 Je transforme des processus manuels complexes en pipelines de données fluides : **De la collecte mobile (CommCare) jusqu'au tableau de bord décisionnel.**
 
