@@ -1,7 +1,8 @@
 # amadou.bamia
 <div align="center">
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" style="object-fit:cover; border-radius: 10px"/>
+  <div align="center">
+  <img src="https://media.giphy.com/media/HzPtbOKyBoBFu/giphy.gif" width="100%" style="object-fit:cover; border-radius: 10px"/>
 </div>
 
   <h1 align="center"> Amadou Bamia, PhD 👋</h1>
